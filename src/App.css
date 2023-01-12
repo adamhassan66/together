@@ -36,3 +36,42 @@
     transform: rotate(360deg);
   }
 }
+
+div button{
+  border-radius: 30px;
+  background-color: rgb(52, 221, 108);
+  box-shadow: 4px 4px;
+  margin-left: 800px;
+  margin-right: 800px;
+}
+
+*{
+  background-color:rgb(38, 7, 62) ;
+}
+
+
+div p{
+  background-color: #43c5f0;
+  margin-left: 850px;
+  margin-right: 850px;
+  border-radius: 30px;
+  
+}
+
+
+div h2{
+  background-color: rgb(255, 255, 255);
+margin-top: 150px;
+margin-left: 800px;
+margin-right: 800px; 
+border-radius: 30px;
+
+}
+
+
+div{
+  background-color: rgb(38, 7, 62);
+  margin-top: 50px;
+  margin-bottom: 50px;
+  
+}
